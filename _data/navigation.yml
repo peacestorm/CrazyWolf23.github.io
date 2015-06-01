@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: Blog
+  url: /blog/
+
+- title: Minecraft
+  url: /minecraft/
+
+#- title: Videos
+#  url: /videos/
+
+- title: About me
+  url: /about/
