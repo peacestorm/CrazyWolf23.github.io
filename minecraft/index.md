@@ -9,3 +9,5 @@ excerpt: "This Is My Minecraft PE Stuff"
 * [Simple Commands Mod]({{ site.url }}/minecraft/simple-commands/)
 
 * [SurvivalPE Alpha]({{ site.url }}/minecraft/SurvivalPE/)
+
+* [InfoGlasses]({{ site.url }}/minecraft/InfoGlasses/)
